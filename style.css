@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+    margin: 0;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    /*background: url('imagem para o fundo.jpg'); */
+}
+img{
+    padding-top: 9rem;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15em;
+}
+.btn{
+    background-color: yellow;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    padding: 6rem;
+    color: white; 
+    text-align: center;
+    font-size: 2rem;
+}
+p{
+    padding: 2rem;
+    color: white;
+    text-align: center;
+}
+.link{color: green;}
